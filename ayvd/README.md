@@ -17,12 +17,12 @@ Para mantener las versiones de los paquetes independientes, les recomendamos que
 
 Siguiendo nuevamente la documentación oficial, pueden instalar JupyterLab directamente con conda desde su consola de preferencia o el Anaconda Prompt:
 
-$ conda install -c conda-forge jupyterlab
-$ conda install nb_conda_kernels
+`$ conda install -c conda-forge jupyterlab`
+`$ conda install nb_conda_kernels`
 
 Para ejecutar JupyterLab, usen el comando:
 
-$ jupyter lab
+`$ jupyter lab`
 
 esto abrirá una pestaña nueva en el navegador. Podrán ver los archivos presentes en el repositorio en la parte izquierda de la pantalla, o los archivos presentes en el directorio desde donde ejecutaron el comando anterior.
 
